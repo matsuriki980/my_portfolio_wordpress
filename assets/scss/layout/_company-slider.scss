@@ -1,0 +1,13 @@
+@use "../global/" as g;
+
+/* --------------------------------------
+  company-slider
+-------------------------------------- */
+.l-company__slider-wrapper {
+	display: flex;
+    flex-direction: column;	
+}
+
+.l-company__slider-track {
+	overflow: hidden;
+}
